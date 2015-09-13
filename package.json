@@ -1,0 +1,17 @@
+{
+  "name": "changing-worlds",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "after-brunch": "0.0.5",
+    "brunch": "^1.8.5",
+    "clean-css-brunch": "^1.7.2",
+    "css-brunch": "^1.7.0",
+    "groundskeeper-brunch": "0.0.4",
+    "javascript-brunch": "^1.7.1",
+    "uglify-js-brunch": "^1.7.8"
+  },
+  "dependencies": {
+    "html-pages-brunch": "^1.0.7"
+  }
+}

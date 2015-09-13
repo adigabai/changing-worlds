@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/scripts/block.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/choice.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/content.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/display.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/game.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/maze.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/moves.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/notify.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/player.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/score.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/special_blocks.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/story.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/styles/game.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/assets.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vendor/ready.min.js" charset="UTF-8" />
+  </component>
+</project>
